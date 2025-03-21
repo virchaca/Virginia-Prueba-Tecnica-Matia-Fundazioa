@@ -66,3 +66,4 @@ Este proyecto ha sido desarrollado para la prueba técnica de **Matia Fundazioa*
 
 ---
 _Desarrollado por [Virginia Álvarez Pérez](https://github.com/virchaca) ✨_
+Si tienes dudas o sugerencias, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/virginia-alvarezperez/) o enviarme un correo a [virginia.alvarez82@gmail.com](mailto:virginia.alvarez82@gmail.com).
