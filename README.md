@@ -24,7 +24,7 @@ Este proyecto consiste en un formulario de registro de usuarios que añade los d
 
 1. Clona este repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   https://github.com/virchaca/Virginia-Prueba-Tecnica-Matia-Fundazioa.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
