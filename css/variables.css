@@ -1,0 +1,15 @@
+:root {
+    --font-family: 'Arial', sans-serif;
+    --primary-color: #f3edf2;
+    --secondary-color: #dc006c;
+    --terciary-color: #333;
+    --text-secondary-color: white;
+    --fontsize-xlarge: 2rem;
+    --fontsize-large: 1.8rem;
+    --fontsize-medium: 1.2rem;
+    --fontsize-med-small:1rem;
+    --fontsize-small: 0.9rem;
+    --fontsize-xsmall: 0.7rem;
+    --bp-tablet: 1023px;
+    --bp-movil: 767px;
+}
